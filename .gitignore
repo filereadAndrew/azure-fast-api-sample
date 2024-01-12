@@ -1,0 +1,13 @@
+*.egg-info
+bin
+include
+lib
+pyvenv.cfg
+**/__pycache__/**
+**.egg-info**
+
+source/**
+
+**/.eggs/**
+
+**/tmp/**
